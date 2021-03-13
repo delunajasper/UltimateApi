@@ -1,0 +1,12 @@
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Development\CompanyEmployees\UltimateApi\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb

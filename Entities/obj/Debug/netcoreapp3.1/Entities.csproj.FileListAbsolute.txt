@@ -1,0 +1,12 @@
+C:\Development\CompanyEmployees\UltimateApi\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Development\CompanyEmployees\UltimateApi\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Development\CompanyEmployees\UltimateApi\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Development\CompanyEmployees\UltimateApi\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Development\CompanyEmployees\UltimateApi\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Development\CompanyEmployees\UltimateApi\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Development\CompanyEmployees\UltimateApi\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Development\CompanyEmployees\UltimateApi\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+C:\Development\CompanyEmployees\UltimateApi\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Development\CompanyEmployees\UltimateApi\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+C:\Development\CompanyEmployees\UltimateApi\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Development\CompanyEmployees\UltimateApi\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache

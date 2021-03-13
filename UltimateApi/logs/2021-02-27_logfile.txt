@@ -1,0 +1,2 @@
+2021-02-27 15:18:23.0133 INFO Here is info message
+2021-02-27 15:18:23.1246 DEBUG debug message

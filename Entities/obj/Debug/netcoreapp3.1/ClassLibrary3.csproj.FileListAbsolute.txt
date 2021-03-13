@@ -1,0 +1,9 @@
+C:\Development\CompanyEmployees\UltimateAPI\ClassLibrary3\bin\Debug\netcoreapp3.1\ClassLibrary3.deps.json
+C:\Development\CompanyEmployees\UltimateAPI\ClassLibrary3\bin\Debug\netcoreapp3.1\ClassLibrary3.dll
+C:\Development\CompanyEmployees\UltimateAPI\ClassLibrary3\bin\Debug\netcoreapp3.1\ClassLibrary3.pdb
+C:\Development\CompanyEmployees\UltimateAPI\ClassLibrary3\obj\Debug\netcoreapp3.1\ClassLibrary3.csprojAssemblyReference.cache
+C:\Development\CompanyEmployees\UltimateAPI\ClassLibrary3\obj\Debug\netcoreapp3.1\ClassLibrary3.AssemblyInfoInputs.cache
+C:\Development\CompanyEmployees\UltimateAPI\ClassLibrary3\obj\Debug\netcoreapp3.1\ClassLibrary3.AssemblyInfo.cs
+C:\Development\CompanyEmployees\UltimateAPI\ClassLibrary3\obj\Debug\netcoreapp3.1\ClassLibrary3.csproj.CoreCompileInputs.cache
+C:\Development\CompanyEmployees\UltimateAPI\ClassLibrary3\obj\Debug\netcoreapp3.1\ClassLibrary3.dll
+C:\Development\CompanyEmployees\UltimateAPI\ClassLibrary3\obj\Debug\netcoreapp3.1\ClassLibrary3.pdb

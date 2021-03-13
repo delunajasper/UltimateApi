@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J/LGvBG6Tcl0k3107KsiOYttMyh/Z+OgvspcQzmis3PeDLEa6x4EJLqrbl0jvMRA8ICnyOTOX7RTGVsIqpzzyw==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\CompanyEmployees\\UltimateAPI\\LoggerService\\LoggerService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\delun\\.nuget\\packages\\nlog\\4.7.8\\nlog.4.7.8.nupkg.sha512"
+  ],
+  "logs": []
+}
